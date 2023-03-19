@@ -83,7 +83,7 @@ const Home = () => {
       <div>
         <div className="background">
           <div className="header">
-            <h1>Ruptanza Airline</h1>
+            <h1>Ruptanza Airline some</h1>
             <div className="logo">
               <GiCommercialAirplane />
             </div>
