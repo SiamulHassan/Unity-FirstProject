@@ -1,0 +1,33 @@
+.flex {
+  display: flex;
+  justify-content: flex-start;
+  width: 1767px;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+.mainContent {
+  font-family: "Open Sans", sans-serif !important;
+  color: rgb(46 38 38) !important;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.712);
+}
+.mainContent span {
+  font-weight: 600;
+}
+.mainContent p {
+  letter-spacing: 0.8px;
+}
+
+.delet {
+  font-family: "Open Sans", sans-serif !important;
+  background-color: rgb(46 38 38) !important;
+  font-style: italic;
+  font-weight: 500 !important;
+  letter-spacing: 1.5px !important;
+}
